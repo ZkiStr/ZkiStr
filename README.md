@@ -1,4 +1,10 @@
-### Hi there 👋
+### Halo Semua! 👋
+
+Allow me to introduce myself, my name is Zaki Satria Prayoga.  
+I am currently studying Front-End Web and Back-End at [Dicoding](https://www.dicoding.com/).  
+I am also a student in the 6th semester of the Informatics study program at [Universitas Muhammadiyah Surakarta](https://www.ums.ac.id/)
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/zaki-satria-p-4ba90413b/) account.
 
 <!--
 **ZkiStr/ZkiStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
