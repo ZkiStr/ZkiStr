@@ -1,4 +1,4 @@
-### Halo Semua! 👋
+### Hello everyone! 👋
 
 Allow me to introduce myself, my name is Zaki Satria Prayoga.  
 I am currently studying Front-End Web and Back-End at [Dicoding](https://www.dicoding.com/).  
